@@ -8,4 +8,7 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
+The contributors of this project are the following:
+
 - Rafael Corchuelo (corchu@us.es)
+- John DT Student (john-dt-student@outlook.com)
