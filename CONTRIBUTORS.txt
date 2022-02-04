@@ -8,4 +8,8 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
+This project was contributed by:
+
 - Rafael Corchuelo (corchu@us.es)
+- Mary Design Testing (mary-design-testing@mail.com)
+
